@@ -13,12 +13,12 @@ void ellipse(PVector a, float w, float h)<br/>
 void line(PVector a, PVector b)<br/>
 void point(PVector a)<br/>
 void quad(PVector a, PVector b, PVector c, PVector d)<br/>
--> void quad3D(PVector a, PVector b, PVector c, PVector d)<br/>
+=> void quad3D(PVector a, PVector b, PVector c, PVector d)<br/>
 void rect(PVector a, float w, float h)<br/>
 void rect(PVector a, float w, float h, float r) <br/>
 void rect(PVector a, float w, float h, float tl, float tr, float br, float bl)<br/>
 void triangle(PVector a, PVector b, PVector c)<br/>
--> void triangle3D(PVector a, PVector b, PVector c)
+=> void triangle3D(PVector a, PVector b, PVector c)
 
 **CURVES**<br/>
 void bezier(PVector a, PVector b, PVector c, PVector d)<br/>
