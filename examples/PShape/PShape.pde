@@ -20,7 +20,7 @@ void setup() {
 	s = createShape();
 	s.beginShape();
 	for(int i = 0; i<5; i++){
-		mp.vertex(s, v[i]);//instead of s.vertex(v[i].x,v,[i].y,v[i].z)
+		mp.vertex(s, v[i]);//instead of s.vertex(v[i].x,v[i].y,v[i].z)
 	}
 	s.endShape(CLOSE);
 }
