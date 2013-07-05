@@ -21,7 +21,7 @@
  * Boston, MA  02111-1307  USA
  * 
  * @author	  Lionel Radisson / Makio135 http://makio135.com
- * @modified	07/04/2013
+ * @modified	07/05/2013
  * @version	 0.2.5 (2)
  */
 
@@ -35,8 +35,8 @@ import processing.core.*;
  * Let you work directly with Pvector
  * 
  * @example HelloMorePVector
- * @example PGraphics
- * @example PShape
+ * @example MorePVector_PGraphics
+ * @example MorePVector_PShape
  */
 
 public class MorePVector {
