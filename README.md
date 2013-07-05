@@ -1,8 +1,8 @@
 MorePVector
 ===========
 
-A Processing 2.0.1 library that implements PVector handling methods.
-Library page: http://makio135.github.io/morepvector/
+A Processing 2.0.1 library that implements PVector handling methods. <br>
+Library page: http://makio135.github.io/morepvector/ <br>
 Reference: http://makio135.github.io/morepvector/reference/index.html
 
 Depending on the renderer specified in the size(), the library will choose automatically between 2D/3D methods for the methods that can have both 2D/3D coordinates (like line(x1,y1, x2,y2) with a 2D renderer and line(x1,y1,z1, x2,y2,z2) with a 3D renderer).
